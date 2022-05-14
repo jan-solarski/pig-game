@@ -1,5 +1,7 @@
 A Pig Game project from The JavaScript Course built with the aim of practising HTML, CSS, JS.
 
+https://jan-solarski.github.io/pig-game/
+
 🎊 RULES 🎊:
 
 - The game has 2 players, each taking their turn
